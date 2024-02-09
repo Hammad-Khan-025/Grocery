@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.alert-danger{
+    color: rgb(127, 29, 29, 1);
+    background-color: rgb(252, 165, 165, 1);
+}
+.alert-success{
+    color: rgb(20, 83, 45, 1);
+    background-color: rgb(134, 239, 172, 1);
+}
